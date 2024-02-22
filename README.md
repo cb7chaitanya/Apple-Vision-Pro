@@ -1,10 +1,10 @@
 Apple Vision Pro Website Frontend Clone Overview
 
-This project is a frontend clone of the website for Apple's Vision Pro. The website provides users with an immersive experience showcasing the features, specifications, and capabilities of the headset. By replicating the frontend interface, this project aims to offer a similar browsing experience to users.
+This project is a frontend clone of the website for Apple's Vision Pro. The website provides users with an immersive experience showcasing the features, specifications, and capabilities of the product. By replicating the frontend interface, this project aims to offer a similar browsing experience to users.
 
 Features
 
-  *Rich Media Content: Incorporates high-quality images and interactive elements to showcase the features and functionalities of the Apple Vision Pro VR headset.
+  *Rich Media Content: Incorporates high-quality images and interactive elements to showcase the features and functionalities of the Apple Vision Pro.
 
   *Informative Sections: Includes sections such as product overview, specifications, design and many more to provide users with comprehensive information about the headset.
 
@@ -36,7 +36,7 @@ Acknowledgements
   
   *Acknowledgment to GSAP (GreenSock Animation Platform) for enabling smooth scroll animations.  
   
-Credits for the video creators and online resources that i took advantage of in the development process
+Credits for the video creators and online resources that I took advantage of in the development process
 
   *Apple Vision Pro Clone
   
