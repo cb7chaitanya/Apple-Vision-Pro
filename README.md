@@ -30,7 +30,7 @@ Contributing
 
 Acknowledgements
 
-  *This project was inspired by the frontend interface of the Apple Vision Pro VR headset website.
+  *This project was inspired by the frontend interface of the Apple Vision Pro website.
   
   *Special thanks to the video creators and tutorial resources that helped in the development of this project.
   
